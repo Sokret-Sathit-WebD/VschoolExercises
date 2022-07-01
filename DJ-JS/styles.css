@@ -1,0 +1,9 @@
+#square {
+    width: 100px;
+    height: 100px;
+    background: rgb(199, 234, 81);
+    border: 2px;
+    border-style: calc();
+    border-color: rgb(230, 242, 105);
+
+}
